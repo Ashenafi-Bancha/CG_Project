@@ -18,8 +18,6 @@ This is a modern 3D solar system simulation built using **Python**, **Pygame**, 
 ![Solar System Simulation](3d_solar_system.png)
 
 
-> *Add a screenshot here of your simulation running*
-
 ## 🛠️ Technologies Used
 
 - Python 3
